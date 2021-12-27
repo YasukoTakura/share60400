@@ -7,7 +7,6 @@
           <AutoIncrement>True</AutoIncrement>
           <ColumnType>System.Int64</ColumnType>
           <DatabaseColumnType>System.Int64</DatabaseColumnType>
-          <DefaultValue class="System.DBNull" assembly="mscorlib" />
           <MaxLength>-1</MaxLength>
           <Name>ID</Name>
           <Required>True</Required>
