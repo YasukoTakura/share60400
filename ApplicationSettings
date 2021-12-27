@@ -3,6 +3,7 @@
   <IntegrateWithOtherApplication>
     <Password>VhPcfoZ~%lrN</Password>
   </IntegrateWithOtherApplication>
+  <SkipCheckErrorWhenGeneratePage>True</SkipCheckErrorWhenGeneratePage>
   <UserServicePort>10339</UserServicePort>
   <WebSitePort>45948</WebSitePort>
 </ApplicationSettings>
